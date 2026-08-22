@@ -1,4 +1,6 @@
-# Alex Nyanteng   GH
+# Alex Nyanteng   
+
+📍 Ashanti ↔ Ghana
 
 I build tools that solve real problems. Currently learning AI engineering.
 
@@ -9,8 +11,9 @@ I build tools that solve real problems. Currently learning AI engineering.
 - [Syntax & Stories](https://syntaxandstories.dev) — a space for tech people to connect, share ideas, and mentor each other
 
 ## Stack
-
-Python, JavaScript, FastAPI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ## Connect
 
