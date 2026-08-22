@@ -1,6 +1,6 @@
 # Alex Nyanteng
 
-Kumasi, Ghana — AI Engineer & Web Developer
+GH
 
 I build tools that solve real problems. Currently learning AI engineering.
 
