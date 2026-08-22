@@ -1,6 +1,4 @@
-# Alex Nyanteng
-
-GH
+# Alex Nyanteng   GH
 
 I build tools that solve real problems. Currently learning AI engineering.
 
