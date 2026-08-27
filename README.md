@@ -2,7 +2,7 @@
 
 📍 Ashanti ↔ Ghana
 
-I build tools that solve real problems. Currently learning AI engineering.
+I build tools that solve real problems. Currently a CS student || learning AI engineering.
 
 ## Projects
 
